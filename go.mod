@@ -1,4 +1,4 @@
-module github.com/bnb-chain/tss-lib/v2
+module github.com/kasplex/tss-lib
 
 go 1.16
 
